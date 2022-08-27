@@ -16,7 +16,7 @@ CSS:-
                 b.) relative:- The element is positioned relative to its normal position. //left right top bottom
                 c.) absolute:- absolute is positioned respect to the first relative positioned parent,No space is reserved for the element by default.
                 d.) fixed:- positioned fixed to the viewport,when we scroll the element stays at its location. for example social bars on websites.
-                e.) it is combination of relative and fixed,for example scrolling background images in websites.
+                e.) sticky:- it is combination of relative and fixed,for example scrolling background images in websites.
                 
                 Read more:- https://www.w3schools.com/cssref/pr_class_position.asp
               
