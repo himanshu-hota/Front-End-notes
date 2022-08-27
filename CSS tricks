@@ -7,3 +7,4 @@
     
 2. By setting box-sizing to border-box we make size to include padding+border within it,
    by default it is content-box that doesn't include margin padding and border.
+   Read-more:- https://www.w3schools.com/cssref/css3_pr_box-sizing.asp
