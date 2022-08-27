@@ -5,5 +5,5 @@
     padding: 0;
     }
     
-2. By setting box-sizing to border-box we make size to include margin+padding+border within it,
+2. By setting box-sizing to border-box we make size to include padding+border within it,
    by default it is content-box that doesn't include margin padding and border.
