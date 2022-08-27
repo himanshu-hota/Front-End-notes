@@ -10,5 +10,12 @@ CSS:-
                
                Read more:- https://www.w3schools.com/cssref/css_units.asp
                            https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units
+                           
+    2. Positioning:-
+                a.) static:- by default.
+                b.) relative:- The element is positioned relative to its normal position. //left right top bottom
+                c.) absolute:- absolute is positioned respect to the first relative positioned parent,No space is reserved for the element by default.
+                d.) fixed:- positioned fixed to the viewport,when we scroll the element stays at its location. for example social bars on websites.
+                e.) it is combination of relative and fixed,for example scrolling background images in websites.
               
             
