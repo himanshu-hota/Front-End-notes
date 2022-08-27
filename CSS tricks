@@ -1,0 +1,8 @@
+1. To remove default margin and padding from html
+    
+    *{
+    margin: 0;
+    padding: 0;
+    }
+    
+2.     
