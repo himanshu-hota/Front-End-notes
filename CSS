@@ -20,4 +20,10 @@ CSS:-
                 
                 Read more:- https://www.w3schools.com/cssref/pr_class_position.asp
               
-            
+    3. Flex:-
+                a.) flex-direction: Indicates directions of elements (row/column/row-reverse/column-reverse).
+                b.) flex-wrap: Wrap elements by adjusting size. (wrap/no-wrap)
+                c.) flex-grow: Adjust remaining space by splitting them to specified porpotion (integer values)
+                d.) flex-shrink: same as flex-grow but in this case space is reduced. (integer values)
+                e.) justify-content:- Align items across to the main axis. (center/flex-start/flex-end/space-between/space-around/space-evenly)
+                f.) align-items:- Align items across the cross axis, here cross axis means perpendicular to main axis. (baseline/flex-start/flex-end/center/stretch)
