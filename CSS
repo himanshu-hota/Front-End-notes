@@ -27,3 +27,6 @@ CSS:-
                 d.) flex-shrink: same as flex-grow but in this case space is reduced. (integer values)
                 e.) justify-content:- Align items across to the main axis. (center/flex-start/flex-end/space-between/space-around/space-evenly)
                 f.) align-items:- Align items across the cross axis, here cross axis means perpendicular to main axis. (baseline/flex-start/flex-end/center/stretch)
+
+    4. ::before :: after:- It is used to add virtual element after or before the current element.
+                
